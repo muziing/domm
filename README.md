@@ -4,10 +4,9 @@
 
 本书更像是原书的学习笔记，有以下特点：
 
-- 比原书更“干”，条理更清晰
-- 排版布局更 Web ，便于在电脑、手机、iPad 等设备上浏览
-- 加入更多注解、高清实物图、动图
-- ……
+1. 比原书更“干”，条理更清晰
+2. 排版布局更 Web ，便于在电脑、手机、iPad 等设备上浏览
+3. 加入更多注解、高清实物图、动图
 
 希望本书对你我的机械设计学习之旅有所帮助
 
@@ -16,20 +15,11 @@
 
 ## 思维导图目录
 
-[![思维导图目录](https://www.processon.com/chart_image/6108b7d60e3e74368fc55118.png)](https://www.processon.com/view/link/6108bbf10e3e74368fc5622a)
+![思维导图目录](https://processon.com/chart_image/6108b7d60e3e74368fc55118.png)
 
 <center><a href='https://www.processon.com/view/link/6108bbf10e3e74368fc5622a'>点我查看思维导图目录：可以自由展开折叠、跳转到章节</a></center>
 
-## 预览章节
-
-来的太早啦，本书才刚刚开始动工！可以先看看下面的早期预览章节：
-
-- [第九章 链传动](https://domm.muzing.top/chapter_09)（**已完成**）
-- [第八章 带传动](https://domm.muzing.top/chapter_08)（正在编写，完成度95%）
-- 第十章 齿轮传动 （正在编写，完成度15%）
-- 第七章 铆接、焊接、胶接和过盈连接 （正在编写，完成度15%）
-
-## 展示段落
+## 段落展示
 
 展示段落1：
 
@@ -80,6 +70,24 @@
 > | $$f_v$$         | 当量摩擦因数                   |
 > | $$\alpha$$      | 包角                           |
 
+-----
+
+展示段落3：
+
+实物图、动画、思维导图
+
+| <img src="https://oss.muzing.top/image/domm_针阀油杯.jpg" alt="针阀油杯" style="zoom:33%;" /> | <img src="https://oss.muzing.top/image/domm_双排链.jpg" alt="双排链" style="zoom:33%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="https://oss.muzing.top/image/domm_滑道式带传动定期张紧装置动画.gif" alt="滑道式带传动定期张紧装置动画" style="zoom:50%;" /> | <img src="https://oss.muzing.top/image/domm_滚子链接头形式选择.png" alt="滚子链接头形式选择" style="zoom:50%;" /> |
+
+## 预览章节
+
+本书尚在施工阶段！可以先看看下面的早期预览章节：
+
+- [**第九章 链传动**](https://domm.muzing.top/chapter_09)（**已完成**）
+- [第八章 带传动](https://domm.muzing.top/chapter_08)（正在编写，完成度95%）
+- [第四章 摩擦、磨损及润滑概述](https://domm.muzing.top/chapter_04)（正在编写，完成度60%）
+
 ## 和我一起编写（招募合作编者！）
 
 诚邀热爱机械的小伙伴以**勘误**、**提供建议**、**提供图片等素材**、**加入编写**等任何方式与我合作，共同完善本书！
@@ -88,8 +96,18 @@
 
 联系编者：muzi2001@foxmail.com
 
+## 打赏与捐赠
+
+本书完全免费！
+
+除 gitbook.com 提供的服务外，本书使用了我的私有域名（muzing.top）、正文部分的所有图片均使用了我个人购置的阿里云 OSS 存储和 CDN 加速服务（这也是为什么图片加载速度那么快），这些费用均由我个人承担
+
+所以，如果本书的内容对你有帮助，也希望你能为我捐赠一瓶冰阔落 :beer: ，支持我继续做下去​ :smiley:
+
+[假装这里有收款码]
+
 ## 随便看看
 
 《机械原理》知识点整理：<https://tomm.muzing.top>
 
-编者的个人技术博客：<https://muzing.top>
+编者的技术博客：<https://muzing.top>
