@@ -84,15 +84,17 @@
 
 本书尚在施工阶段！可以先看看下面的早期预览章节：
 
-- [**第九章 链传动**](https://domm.muzing.top/chapter_09)（**已完成**）
-- [第八章 带传动](https://domm.muzing.top/chapter_08)（正在编写，完成度95%）
-- [第四章 摩擦、磨损及润滑概述](https://domm.muzing.top/chapter_04)（正在编写，完成度60%）
+- [第八章 带传动](https://domm.muzing.top/chapter_08)（已完成）
+- [第九章 链传动](https://domm.muzing.top/chapter_09)（已完成）
+- [第四章 摩擦、磨损及润滑概述](https://domm.muzing.top/chapter_04)（已完成）
+- [第七章 铆接、焊接、胶接和过盈连接](https://domm.muzing.top/chapter_07)（正在编写，完成度40%）
+- [第十章 齿轮传动](https://domm.muzing.top/chapter_10)（正在编写，完成度30%）
 
 ## 和我一起编写（招募合作编者！）
 
 诚邀热爱机械的小伙伴以**勘误**、**提供建议**、**提供图片等素材**、**加入编写**等任何方式与我合作，共同完善本书！
 
-编写格式规范：<https://domm.muzing.top/specification>
+[编写格式规范](https://domm.muzing.top/specification)
 
 联系编者：muzi2001@foxmail.com
 
@@ -100,14 +102,14 @@
 
 本书完全免费！
 
-除 gitbook.com 提供的服务外，本书使用了我的私有域名（muzing.top）、正文部分的所有图片均使用了我个人购置的阿里云 OSS 存储和 CDN 加速服务（这也是为什么图片加载速度那么快），这些费用均由我个人承担
+本书正文部分的所有图片均使用我个人购置的阿里云 OSS 存储和 CDN 加速服务（这也是为什么图片加载速度那么快），这些费用均由我个人承担
 
-所以，如果本书的内容对你有帮助，也希望你能为我捐赠一瓶冰阔落 :beer: ，支持我继续做下去​ :smiley:
+所以，如果本书的内容对你有帮助，也希望你能为我捐赠一瓶冰阔落，支持我继续做下去​
 
 [假装这里有收款码]
 
 ## 随便看看
 
-《机械原理》知识点整理：<https://tomm.muzing.top>
+[《机械原理》知识点整理](https://tomm.muzing.top)
 
-编者的技术博客：<https://muzing.top>
+[编者的技术博客](https://muzing.top)
