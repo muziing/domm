@@ -74,11 +74,11 @@
 
 展示段落3：
 
-实物图、动画、思维导图
-
-| <img src="https://oss.muzing.top/image/domm_针阀油杯.jpg" alt="针阀油杯" style="zoom:33%;" /> | <img src="https://oss.muzing.top/image/domm_双排链.jpg" alt="双排链" style="zoom:33%;" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://oss.muzing.top/image/domm_滑道式带传动定期张紧装置动画.gif" alt="滑道式带传动定期张紧装置动画" style="zoom:50%;" /> | <img src="https://oss.muzing.top/image/domm_滚子链接头形式选择.png" alt="滚子链接头形式选择" style="zoom:50%;" /> |
+> 实物图、动画、思维导图
+> 
+> | <img src="https://oss.muzing.top/image/domm_针阀油杯.jpg" alt="针阀油杯" style="zoom:33%;" /> | <img src="https://oss.muzing.top/image/domm_双排链.jpg" alt="双排链" style="zoom:33%;" /> |
+> | ------------------------------------------------------------ | ------------------------------------------------------------ |
+> | <img src="https://oss.muzing.top/image/domm_滑道式带传动定期张紧装置动画.gif" alt="滑道式带传动定期张紧装置动画" style="zoom:50%;" /> | <img src="https://oss.muzing.top/image/domm_滚子链接头形式选择.png" alt="滚子链接头形式选择" style="zoom:50%;" /> |
 
 ## 预览章节
 
@@ -104,9 +104,9 @@
 
 本书正文部分的所有图片均使用我个人购置的阿里云 OSS 存储和 CDN 加速服务（这也是为什么图片加载速度那么快），这些费用均由我个人承担
 
-所以，如果本书的内容对你有帮助，也希望你能为我捐赠一瓶冰阔落，支持我继续做下去​
+所以，如果本书的内容对你有帮助，也希望你能为我捐赠一瓶冰可乐，支持我继续做下去​
 
-[假装这里有收款码]
+![微信收款码](https://oss.muzing.top/image/muzing微信收款码.png)
 
 ## 随便看看
 
