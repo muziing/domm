@@ -14,7 +14,7 @@
 
 《机械设计：第四版》 邱宣怀 主编
 
-TODO 图书封面
+![原书封面2](https://oss.muzing.top/image/domm_book2_cover.jpg)
 
 ## 文件格式、命名与编码
 
@@ -236,9 +236,7 @@ markdown 源代码中，单独占据一行，前后至少各一个空行
 
 markdown 源代码中以一个空行表示换行，不允许使用 `<br\>` 或 `\` 换行
 
-源代码中连续出现的空行不可超过3行
-
-2级标题与上文之间有一个视觉空行（3个源代码空行）
+源代码中连续出现的空行不可超过2行
 
 文件末尾保留且仅保留1个源代码空行
 
@@ -254,7 +252,7 @@ TODO 完善“滚子链传动的设计计算”部分
 
 所有本规范中未提及的情况，自行酌情处理并将处理结果通知与我。本规范的原文件为 markdown 格式，其书写格式亦为规范。
 
-《机械设计》 英文名为 `Machine Design` ，但考虑到历史遗留（机械原理 *Theory of Machines and Mechanisms* 缩写为 *tomm*，是我编写的上一本知识点整理电子书），以及避免与 markdown 的缩写 md 混淆，本书使用 `domm` 作为代号。
+《机械设计》 英文名为 `Machine Design` ，但考虑到历史遗留（机械原理 *Theory of Machines and Mechanisms* 缩写为 *tomm*，是我编写的上一本知识点整理电子书的代号），以及避免与 markdown 的缩写 md 混淆，本书使用 `domm` 作为代号。
 
 未尽事宜，请[联系编者](https://muzing.top/about/)：[muzi2001@foxmail.com](https://muzing.top/about/)
 
