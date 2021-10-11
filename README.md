@@ -5,19 +5,22 @@
 本书更像是原书的学习笔记，有以下特点：
 
 1. 比原书更“干”，条理更清晰
-2. 排版布局更 Web ，便于在电脑、手机、iPad 等设备上浏览
-3. 加入更多注解、高清实物图、动图
+2. 综合两本教材、课堂笔记、课外扩展内容
+3. 排版布局更 Web ，便于在电脑、手机、iPad 等设备上浏览
+4. 加入更多注解、高清实物图、动图
 
 希望本书对你我的机械设计学习之旅有所帮助
 
 <p align="right">muzing</p>
-<p align="right">2021年7-8月</p>
+<p align="right">2021年7-9月</p>
 
 ## 思维导图目录
 
 ![思维导图目录](https://processon.com/chart_image/6108b7d60e3e74368fc55118.png)
 
 <center><a href='https://www.processon.com/view/link/6108bbf10e3e74368fc5622a'>点我查看思维导图目录：可以自由展开折叠、跳转到章节</a></center>
+
+本书编写正处于第二阶段，目录变化较频繁，请直接跳转到感兴趣的章节开始阅读
 
 ## 段落展示
 
@@ -58,7 +61,7 @@
 
 > **基本额定功率 $$P_0$$**：
 > $$
-> P_0 = \frac{([\sigma]-\sigma_{b1}-\sigma_c)(1-\frac{1}{e^{f_v\alpha}})Av}{1000}
+> P_0 = \frac{([\sigma]-\sigma_{b1}-\sigma_c)(1 - \frac{1}{e^{f_v \alpha}})A v}{1000}
 > $$
 >
 > | 字母符号        | 含义                           |
