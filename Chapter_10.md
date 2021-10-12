@@ -233,7 +233,11 @@ $$K_{\mathrm{H}\alpha}$$ 齿面接触疲劳强度计算
 
 $$K_{\mathrm{F}\alpha}$$ 齿根弯曲疲劳计算
 
+$$K_\alpha$$ 的计算分为一般方法和简化方法，对于简化方法可查表得
+
 ### 齿向载荷分布系数 $$K_\beta$$​
+
+作用在齿面上的载荷沿接触轴线分布不均匀
 
 先 $$K_{\mathrm{H}\beta}$$ 再 $$K_{\mathrm{F}\beta}$$
 
@@ -251,28 +255,69 @@ $$K_{\mathrm{F}\alpha}$$ 齿根弯曲疲劳计算
 
 ### 轮齿的受力分析
 
+计算时忽略摩擦
+
 为计算齿轮上的名义法向力 $$F_n$$ ，（集中力代替分布力）将其在小齿轮的节圆处分解为圆周力 $$F_{t1}$$ 和径向力 $$F_{r1}$$，然后计算
 
-圆周力 $$F_{t1}$$
 $$
+\begin{cases}
 F_{t1} = \frac{2T_1}{d_1}
+\\
+F_{r1} = F_{t1} \tan \alpha
+\\
+F_n = \frac{F_{t1}}{\cos \alpha}
+\end{cases}
 $$
 
-径向力 $$F_{r1}$$
-
-$$
-F_{r1} = F_{t1}\tan\alpha
-$$
-
-法向力 $$F_n$$
-
-$$
-F_n = \frac{F_{t1}}{\cos\alpha}
-$$
+| 字母符号   | 含义                     |
+| ---------- | ------------------------ |
+| $$F_{t1}$$ | 圆周力                   |
+| $$F_{r1}$$ | 径向力                   |
+| $$F_n$$    | 法向力                   |
+| $$T_1$$    | 小齿轮传递的扭矩，N · mm   |
+| $$\alpha$$ | 压力角                   |
 
 ### 齿根弯曲疲劳强度计算
 
+直齿圆柱齿轮的弯曲疲劳强度条件：
+
+$$
+\sigma_F = \sigma_{F0} K_F Y_{Sa} Y_\varepsilon = \frac{K_F F_{t1}}{bm} Y_{Fa} Y_{Sa} Y_\varepsilon \leq [\sigma_F]
+$$
+
+| 字母符号          | 含义                         | 备注                                                       |
+| ----------------- | ---------------------------- | ---------------------------------------------------------- |
+| $$K_F$$           | 弯曲疲劳强度计算的载荷系数   | $$K_F = K_A K_v K_{F \alpha} K_{F \beta}$$                 |
+| $$Y_{Sa}$$        | 应力修正系数                 | 查表                                                       |
+| $$Y_\varepsilon$$ | 弯曲疲劳强度计算的重合度系数 | 见下式，其中 $$\varepsilon_\alpha$$ 为直齿圆柱齿轮的重合度 |
+
+$$
+Y_\varepsilon = 0.25 + \frac{0.75}{\varepsilon_\alpha}
+$$
+
+设计计算式：
+
+$$
+m \geq \sqrt[3]{\frac{2K_F T_1 Y_\varepsilon}{\phi_d z_1^2} (\frac{Y_{Fa} Y_{Sa}}{[\sigma_F]})}
+$$
+
 ### 齿面接触疲劳强度计算
+
+校核式：
+
+$$
+\sigma_H = \sqrt{\frac{2 K_H T_1}{\phi_d d_1^3} \frac{u \pm 1}{u}} Z_H Z_E Z_\varepsilon \leq [\sigma_H]
+$$
+
+设计计算公式：
+
+$$
+d_1 \geq \sqrt[3]{\frac{2K_H T_1}{\phi_d} \frac{u \pm 1}{u}(\frac{Z_H Z_E Z_\varepsilon}{[\sigma_H]})^2}
+$$
+
+### 齿轮传动的强度计算说明
+
+取一对齿轮副中较弱的那个齿轮的数据代入计算
 
 ## 10-6 齿轮传动的精度、设计参数与许用应力
 
@@ -318,6 +363,14 @@ $$
 当对径向尺寸有严格要求时，应选择较大的齿宽系数
 
 增大齿宽系数将增大载荷沿接触线分布的不均匀程度
+
+| 装置状况   | 两支承相对于小齿轮作对称布置 | 两支承相对于小齿轮作不对称布置 | 小齿轮作悬臂布置 |
+| ---------- | ---------------------------- | ------------------------------ | ---------------- |
+| $$\phi_d$$ | 0.9 ~ 1.4（1.2 ~ 1.9）       | 0.7 ~ 1.15（1.1 ~ 1.65）       | 0.4 ~ 0.6        |
+
+#### 变位系数的选择
+
+线图法
 
 ### 齿轮的许用应力
 
@@ -392,7 +445,7 @@ $$
 | $$Y_\varepsilon$$ | 弯曲疲劳强度计算的重合度系数 | $$Y_\varepsilon = 0.25 + \frac{0.75}{\varepsilon_{\alpha v}}$$ |
 | $$Y_\beta$$       | 弯曲疲劳强度计算的螺旋角系数 | $$Y_\beta = 1 - \varepsilon_{\beta} \frac{\beta}{120^{\circ}}$$ |
 
-变换可得设计计算公式：
+变换上式，可得设计计算公式：
 $$
 m_n \geq \sqrt[3]{\frac{2K_FT_1Y_{\varepsilon}Y_{\beta}\cos^2\beta}{\phi_d z_1^2}\frac{Y_{Fa}Y_{Sa}}{[\sigma_F]}}
 $$
@@ -409,7 +462,7 @@ $$
 | $$Z_H$$     | 标准斜齿圆柱齿轮的区域系数   | $$Z_H = \sqrt{\frac{2 \cos \beta_b}{\cos \alpha_t \sin \alpha_t}}$$ |
 | $$Z_\beta$$ | 接触疲劳强度计算的螺旋角系数 | $$Z_\beta = \sqrt{\cos \beta}$$                              |
 
-变换式，可得设计计算公式：
+变换上式，可得设计计算公式：
 $$
 d_1 \geq \sqrt[3]{\frac{2K_HT_1}{\phi_d}\frac{u \pm 1}{u}(\frac{Z_HZ_EZ_\varepsilon Z_\beta}{[\sigma_H]})^2}
 $$
@@ -420,11 +473,48 @@ $$
 
 以大端为标准值
 
+规定以齿宽中点处的当量齿轮作为计算模型
+
 ### 轮齿的受力分析
+
+- 圆周力 $$F_{t1}$$
+- 径向力 $$F_{r1}$$ （指向轴）
+- 轴向力 $$F_{a1}$$ （指向大端）
+
+$$
+\begin{cases}
+F_{t1} = \frac{2T_1}{d_{m1}}
+\\
+F_{r1} = F_{t1} \tan \alpha \cos \delta_1
+\\
+F_{a1} = F_{t1} \tan \alpha \sin \delta_1
+\\
+F_n = \frac{F_{t1}}{\cos \alpha}
+\end{cases}
+$$
 
 ### 齿根弯曲疲劳强度计算
 
+$$
+\sigma_F = \frac{4 K_F T_1 Y_{Fa} Y_{Sa} Y_\varepsilon}{\phi_R (1 - 0.5 \phi_R)^2 m^3 z_1^2 \sqrt{u^2 + 1}} \leq [\sigma_F]
+$$
+
+经变换，可得设计计算公式
+$$
+m \geq \sqrt[3]{\frac{4 K_F T_1 Y_\varepsilon}{\phi_R (1 - 0.5 \phi_R)^2 z_1^2 \sqrt{u^2 + 1}} \frac{Y_{Fa} Y_{Sa}}{[\sigma_F]}}
+$$
+
 ### 齿面接触疲劳强度计算
+
+齿面接触疲劳强度条件式：
+$$
+\sigma_H = \sqrt{\frac{4 K_H T_1}{\phi_R (1 - 0.5\phi_R)^2 d_1^3 u}} Z_H Z_E Z_\varepsilon \leq [\sigma_H]
+$$
+经变换，可得设计计算公式：
+$$
+d_1 \geq \sqrt[3]{\frac{4K_H T_1}{\phi_R (1 - 0.5 \phi_R)^2 u}(\frac{Z_H Z_E Z_\varepsilon}{[\sigma_H]})^2}
+$$
+重合度系数 $$Z_\varepsilon$$ 按当量齿轮计算
 
 ### 曲齿锥齿轮传动简介
 
