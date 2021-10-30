@@ -11,14 +11,14 @@
 
 希望本书对你我的机械设计学习之旅有所帮助
 
-<p align="right">muzing</p>
-<p align="right">2021年7-9月</p>
+muzing
+2021年7-11月
 
 ## 思维导图目录
 
-![思维导图目录](https://processon.com/chart_image/6108b7d60e3e74368fc55118.png)
+![思维导图目录](http://processon.com/chart_image/6108b7d60e3e74368fc55118.png)
 
-<center><a href='https://www.processon.com/view/link/6108bbf10e3e74368fc5622a'>点我查看思维导图目录：可以自由展开折叠、跳转到章节</a></center>
+[点我查看思维导图目录：可以自由展开折叠、跳转到章节](https://www.processon.com/view/link/6108bbf10e3e74368fc5622a)
 
 本书编写正处于第二阶段，目录变化较频繁，请直接跳转到感兴趣的章节开始阅读
 
@@ -85,21 +85,21 @@
 
 ## 预览章节
 
-本书尚在施工阶段！可以先看看下面的早期预览章节：
+本书尚在施工阶段！可以先看看下面的预览章节：
 
-- [第八章 带传动](https://domm.muzing.top/chapter_08)（已完成）
-- [第九章 链传动](https://domm.muzing.top/chapter_09)（已完成）
-- [第四章 摩擦、磨损及润滑概述](https://domm.muzing.top/chapter_04)（已完成）
-- [第七章 铆接、焊接、胶接和过盈连接](https://domm.muzing.top/chapter_07)（正在编写，完成度40%）
-- [第十章 齿轮传动](https://domm.muzing.top/chapter_10)（正在编写，完成度30%）
+- [带传动](https://domm.muzing.top/chapter_08)
+- [链传动](https://domm.muzing.top/chapter_09)
+- [摩擦、磨损及润滑概述](https://domm.muzing.top/chapter_04)
+- [铆接、焊接、胶接和过盈连接](https://domm.muzing.top/chapter_07)
+- [齿轮传动](https://domm.muzing.top/chapter_10)
 
 ## 和我一起编写（招募合作编者！）
 
 诚邀热爱机械的小伙伴以**勘误**、**提供建议**、**提供图片等素材**、**加入编写**等任何方式与我合作，共同完善本书！
 
-[编写格式规范](https://domm.muzing.top/specification)
+[编写格式规范](https://domm.muzing.top/specification_21)
 
-联系编者：muzi2001@foxmail.com
+联系编者：<muzi2001@foxmail.com>
 
 ## 打赏与捐赠
 
@@ -109,7 +109,7 @@
 
 所以，如果本书的内容对你有帮助，也希望你能为我捐赠一瓶冰可乐，支持我继续做下去​
 
-![微信收款码](https://oss.muzing.top/image/muzing微信收款码.png)
+![](https://oss.muzing.top/image/muzing微信收款码.png)
 
 ## 随便看看
 
