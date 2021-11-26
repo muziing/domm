@@ -2,25 +2,24 @@
 
 为便于随时随地复习巩固机械设计知识，特整理编写本书并发布至在线平台
 
-本书更像是原书的学习笔记，有以下特点：
+本书更接近于原书的学习笔记，有以下特点：
 
 1. 比原书更“干”，条理更清晰
 2. 综合两本教材、课堂笔记、课外扩展内容
-3. 排版布局更 Web ，便于在电脑、手机、iPad 等设备上浏览
+3. 排版布局更 Web，便于在电脑、手机、iPad 等设备上浏览
 4. 加入更多注解、高清实物图、动图
 
 希望本书对你我的机械设计学习之旅有所帮助
 
 muzing
-2021年7-11月
+
+2021年 7~12月
 
 ## 思维导图目录
 
 ![思维导图目录](http://processon.com/chart_image/6108b7d60e3e74368fc55118.png)
 
-[点我查看思维导图目录：可以自由展开折叠、跳转到章节](https://www.processon.com/view/link/6108bbf10e3e74368fc5622a)
-
-本书编写正处于第二阶段，目录变化较频繁，请直接跳转到感兴趣的章节开始阅读
+[点我查看思维导图目录（可以自由展开折叠、跳转到章节）](https://www.processon.com/view/link/6108bbf10e3e74368fc5622a)
 
 ## 段落展示
 
@@ -78,7 +77,7 @@ muzing
 展示段落3：
 
 > 实物图、动画、思维导图
-> 
+>
 > | <img src="https://oss.muzing.top/image/domm_针阀油杯.jpg" alt="针阀油杯" style="zoom:33%;" /> | <img src="https://oss.muzing.top/image/domm_双排链.jpg" alt="双排链" style="zoom:33%;" /> |
 > | ------------------------------------------------------------ | ------------------------------------------------------------ |
 > | <img src="https://oss.muzing.top/image/domm_滑道式带传动定期张紧装置动画.gif" alt="滑道式带传动定期张紧装置动画" style="zoom:50%;" /> | <img src="https://oss.muzing.top/image/domm_滚子链接头形式选择.png" alt="滚子链接头形式选择" style="zoom:50%;" /> |
@@ -87,11 +86,10 @@ muzing
 
 本书尚在施工阶段！可以先看看下面的预览章节：
 
-- [带传动](https://domm.muzing.top/chapter_08)
-- [链传动](https://domm.muzing.top/chapter_09)
-- [摩擦、磨损及润滑概述](https://domm.muzing.top/chapter_04)
-- [铆接、焊接、胶接和过盈连接](https://domm.muzing.top/chapter_07)
-- [齿轮传动](https://domm.muzing.top/chapter_10)
+- [第四章 摩擦、磨损及润滑概述](https://domm.muzing.top/chapter_04)
+- [第七章 铆接、焊接、胶接和过盈连接](https://domm.muzing.top/chapter_07)
+- [第八章 带传动](https://domm.muzing.top/chapter_08)
+- [第十章 齿轮传动](https://domm.muzing.top/chapter_10)
 
 ## 和我一起编写（招募合作编者！）
 
@@ -99,17 +97,25 @@ muzing
 
 [编写格式规范](https://domm.muzing.top/specification_21)
 
-联系编者：<muzi2001@foxmail.com>
+联系编者：[muzi2001@foxmail.com](mailto:muzi2001@foxmail.com)
 
 ## 打赏与捐赠
 
 本书完全免费！
 
-本书正文部分的所有图片均使用我个人购置的阿里云 OSS 存储和 CDN 加速服务（这也是为什么图片加载速度那么快），这些费用均由我个人承担
+本书正文部分的所有图片均使用我个人购置的阿里云 OSS 存储和 CDN 加速服务（这也是为什么图片加载速度那么快），这些费用均由我个人承担。
 
-所以，如果本书的内容对你有帮助，也希望你能为我捐赠一瓶冰可乐，支持我继续做下去​
+所以，如果本书的内容对你有帮助，也希望你能为我捐赠一瓶冰可乐，支持我继续做下去​。
 
 ![](https://oss.muzing.top/image/muzing微信收款码.png)
+
+> 声明：打赏仅为读者完全出于自愿的行为，不会因此有任何形式的额外服务等提供。
+
+## 致谢
+
+感谢[吟风](https://brise.top)，有了她的支持鼓励、一直以来的陪伴，本书才得以从一个想法，一点一滴逐步变成现在的样子。她也是第一位为本书打赏的人（5.20元）。
+
+感谢每一位在编写时帮助过我的人、感谢每一位读者。
 
 ## 随便看看
 
