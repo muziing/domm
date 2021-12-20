@@ -198,7 +198,7 @@ TODO
 
 **缺点**：受到结构尺寸的限制
 
-[GB/T 28701-2012 胀紧联结套](https://oss.muzing.top/documents/GBT%2028701-2012%20%E8%83%80%E7%B4%A7%E8%81%94%E7%BB%93%E5%A5%97.pdf)
+[GB/T 28701-2012 胀紧联结套](https://oss.muzing.top/documents/GBT-28701-2012.pdf)
 
 传递扭矩时：
 $$
