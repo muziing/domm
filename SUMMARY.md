@@ -1,6 +1,6 @@
 # 《〈机械设计〉知识点整理》 总目录
 
-1. [README](README.md)
+1. [首页](README.md)
 2. [第一篇 总论](Article_01.md)
 3. [第一章 绪论、机械设计总论](Chapter_01.md)
 4. [第二章 零件的工作能力和计算准则](Chapter_02.md)
