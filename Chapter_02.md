@@ -51,15 +51,22 @@
 ### 两种判断零件强度的方法
 
 许用应力
+
 $$
 [\sigma] = \frac{\sigma_{\lim}}{[S_{\sigma}]}
-\\
+$$
+
+$$
 [\tau] = \frac{\tau_{\lim}}{[S_{\tau}]}
 $$
+
 许用安全系数
+
 $$
 S_{\sigma} = \frac{\sigma_{\lim}}{\sigma} \geq [S_{\sigma}]
-\\
+$$
+
+$$
 S_{\tau} = \frac{\tau_{\lim}}{\tau} \geq [S_{\tau}]
 $$
 
@@ -219,7 +226,9 @@ $$
 
 $$
 F^{\prime} = (1 + \sqrt{1 + \frac{2h}{y}}) F = K_1
-\\
+$$
+
+$$
 K_1 = 1 + \sqrt{1 + \frac{2h}{y}}
 $$
 
