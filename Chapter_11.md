@@ -8,7 +8,7 @@
 
 ### 圆柱蜗杆传动
 
-[GB/T 10089-2018 圆柱蜗杆、蜗轮精度](https://oss.muzing.top/documents/GBT-10089-2018.pdf)
+[GB/T 10089-2018 圆柱蜗杆、蜗轮精度](https://muzing-bucket0.oss-cn-huhehaote.aliyuncs.com/documents/GBT-10089-2018.pdf)
 
 端面 —— 垂直于蜗杆轴线平面
 
@@ -93,7 +93,7 @@ $$
 
 ZA 蜗杆**轴向压力角 $$\alpha_a$$** 为标准值（20°）
 
-ZN、ZI、ZK 蜗杆**法向压力角 $$\alpha_n$$**为标准值（20°）
+ZN、ZI、ZK 蜗杆**法向压力角 $$\alpha_n$$** 为标准值（20°）
 
 $$
 \tan \alpha_a = \frac{\tan \alpha_n}{\cos \gamma}
@@ -185,7 +185,7 @@ $$
 
 ### 普通圆柱蜗杆传动的精度等级及其选择
 
-[GB/T 10089-2018 圆柱蜗杆、蜗轮精度](https://oss.muzing.top/documents/GBT-10089-2018.pdf)中规定了12个精度等级（1级最高），三个公差组
+[GB/T 10089-2018 圆柱蜗杆、蜗轮精度](https://muzing-bucket0.oss-cn-huhehaote.aliyuncs.com/documents/GBT-10089-2018.pdf)中规定了12个精度等级（1级最高），三个公差组
 
 6 级精度：中等精度机床的分度机构、发动机调节系统及机械师读数装置的精密传动。允许的蜗轮圆周速度 $$v_2$$ > 5 m/s
 

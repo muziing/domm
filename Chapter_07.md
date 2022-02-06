@@ -47,15 +47,15 @@
 
 ### 铆钉的主要类型和标准
 
-[GB/T 863.1-1986 半圆头铆钉 (粗制)](https://oss.muzing.top/documents/GBT-863.1-1986.pdf)
+[GB/T 863.1-1986 半圆头铆钉 (粗制)](https://muzing-bucket0.oss-cn-huhehaote.aliyuncs.com/documents/GBT-863.1-1986.pdf)
 
-[GB/T 863.2-1986 小半圆头铆钉 (粗制)](https://oss.muzing.top/documents/GBT-863.2-1986.pdf)
+[GB/T 863.2-1986 小半圆头铆钉 (粗制)](https://muzing-bucket0.oss-cn-huhehaote.aliyuncs.com/documents/GBT-863.2-1986.pdf)
 
-[GB/T 864-1986 平锥头铆钉 (粗制)](https://oss.muzing.top/documents/GBT-864-1986.pdf)
+[GB/T 864-1986 平锥头铆钉 (粗制)](https://muzing-bucket0.oss-cn-huhehaote.aliyuncs.com/documents/GBT-864-1986.pdf)
 
-[GB/T 865-1986 沉头铆钉 (粗制)](https://oss.muzing.top/documents/GBT-865-1986.pdf)
+[GB/T 865-1986 沉头铆钉 (粗制)](https://muzing-bucket0.oss-cn-huhehaote.aliyuncs.com/documents/GBT-865-1986.pdf)
 
-[GB/T 866-1986 半沉头铆钉 (粗制)](https://oss.muzing.top/documents/GBT-866-1986.pdf)
+[GB/T 866-1986 半沉头铆钉 (粗制)](https://muzing-bucket0.oss-cn-huhehaote.aliyuncs.com/documents/GBT-866-1986.pdf)
 
 GB/T 867-1986 ~ GB/T 876-1986 等
 

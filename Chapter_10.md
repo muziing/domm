@@ -35,7 +35,7 @@
 
 ### 失效形式
 
-[GB/T 3481-1997 齿轮轮齿磨损和损伤术语](https://oss.muzing.top/documents/GBT-3481-1997.pdf)
+[GB/T 3481-1997 齿轮轮齿磨损和损伤术语](https://muzing-bucket0.oss-cn-huhehaote.aliyuncs.com/documents/GBT-3481-1997.pdf)
 
 **硬齿面齿轮**：齿轮工作面硬度 > 350 HBS 或 38 HRC
 
@@ -136,7 +136,7 @@
 
 通常只按保证**齿根弯曲疲劳强度**及保证**齿面接触疲劳强度**两准则进行设计
 
-对高速大功率的齿轮传动，还要保证按齿面抗胶合能力的准则进行设计 （[GB/T 3480-1997 渐开线圆柱齿轮承载能力计算方法](https://oss.muzing.top/documents/GBT-3480-1997.pdf)）
+对高速大功率的齿轮传动，还要保证按齿面抗胶合能力的准则进行设计 （[GB/T 3480-1997 渐开线圆柱齿轮承载能力计算方法](https://muzing-bucket0.oss-cn-huhehaote.aliyuncs.com/documents/GBT-3480-1997.pdf)）
 
 ## 10-3 齿轮的材料及其选择原则
 

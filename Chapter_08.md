@@ -598,7 +598,7 @@ V带轮槽的工作面夹角小于40°（32° 34° 36° 38°），以使V带的�
 
 转速低于极限转速的带轮要做静平衡，高于极限转速的要做动平衡
 
-[GB/T 13575.1-2008](https://oss.muzing.top/documents/GBT-13575.1-2008.pdf)
+[GB/T 13575.1-2008](https://muzing-bucket0.oss-cn-huhehaote.aliyuncs.com/documents/GBT-13575.1-2008.pdf)
 
 ## 8-5 V带传动的张紧、安装与防护
 

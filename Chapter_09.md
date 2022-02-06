@@ -112,7 +112,7 @@
 
 **我国链条标准**：
 
-[GB/T 1243-2006](https://oss.muzing.top/documents/GBT-1243-2006.pdf)
+[GB/T 1243-2006 传动用短节距精密滚子链、套筒链、附件和链轮](https://muzing-bucket0.oss-cn-huhehaote.aliyuncs.com/documents/GBT-1243-2006.pdf)
 
 链号数 × $$\frac{25.4}{16}$$ = 节距值
 

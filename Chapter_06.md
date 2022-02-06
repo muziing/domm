@@ -78,10 +78,12 @@
 普通平键的主要尺寸：查表
 
 普通平键连接的强度条件：
+
 $$
 \sigma_{bs} = \frac{2000T}{kld} = \frac{4000T}{hld} \leq [\sigma_{bs}]
 $$
 导向平键连接、滑键连接的强度条件：
+
 $$
 p = \frac{2000T}{kld} = \frac{4000T}{hld} = \leq [p]
 $$
@@ -146,10 +148,13 @@ Spline
 ### 花键连接强度计算
 
 静连接：
+
 $$
 \sigma_{bs} = \frac{2000T}{\psi zhld_m} \leq [\sigma_{bs}]
 $$
+
 动连接：
+
 $$
 p = \frac{2000T}{\psi zhld_m} \leq [p]
 $$
@@ -198,17 +203,22 @@ TODO
 
 **缺点**：受到结构尺寸的限制
 
-[GB/T 28701-2012 胀紧联结套](https://oss.muzing.top/documents/GBT-28701-2012.pdf)
+[GB/T 28701-2012 胀紧联结套](https://muzing-bucket0.oss-cn-huhehaote.aliyuncs.com/documents/GBT-28701-2012.pdf)
 
 传递扭矩时：
+
 $$
 T \leq [T]
 $$
+
 传递轴向力时：
+
 $$
 F_a \leq [F_a]
 $$
+
 传递联合作用的转矩和轴向力时：
+
 $$
 \sqrt{F^2_a + (\frac{2000T}{d}) ^2} \leq [F_a]
 $$
@@ -222,6 +232,7 @@ $$
 | $$d$$     | 胀套内径，mm             |
 
 一个胀套不能满足要求时，可用两个以上的胀套串联使用，其总额定载荷（以转矩为例）为：
+
 $$
 [T_n] = m[T]
 $$

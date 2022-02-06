@@ -62,7 +62,7 @@
 - 圆螺母
 - 垫圈
 
-[GB/T 3103.1-2002 紧固件公差 螺栓、螺钉、螺柱和螺母](https://oss.muzing.top/documents/GBT-3103.1-2002.pdf)
+[GB/T 3103.1-2002 紧固件公差 螺栓、螺钉、螺柱和螺母](https://muzing-bucket0.oss-cn-huhehaote.aliyuncs.com/documents/GBT-3103.1-2002.pdf)
 
 螺纹连接件分为三个精度等级：
 
@@ -70,11 +70,11 @@
 - B级：受载较大且经常装拆、调整或承受变载荷的连接
 - C级：一般的螺纹连接（常用）
 
-[GB/T 3103.2-1982 紧固件公差 用于精密机械的螺栓、螺钉和螺母](https://oss.muzing.top/documents/GBT-3103.2-1982.pdf)
+[GB/T 3103.2-1982 紧固件公差 用于精密机械的螺栓、螺钉和螺母](https://muzing-bucket0.oss-cn-huhehaote.aliyuncs.com/documents/GBT-3103.2-1982.pdf)
 
-[GB/T 5782-2016 六角头螺栓](https://oss.muzing.top/documents/GBT-5782-2016.pdf)
+[GB/T 5782-2016 六角头螺栓](https://muzing-bucket0.oss-cn-huhehaote.aliyuncs.com/documents/GBT-5782-2016.pdf)
 
-[GB/T 16938-2008 紧固件 螺栓、螺钉、螺柱和螺母通用技术条件](https://oss.muzing.top/documents/GBT-16938-2008.pdf)
+[GB/T 16938-2008 紧固件 螺栓、螺钉、螺柱和螺母通用技术条件](https://muzing-bucket0.oss-cn-huhehaote.aliyuncs.com/documents/GBT-16938-2008.pdf)
 
 ## 5-3 螺纹连接的拧紧
 

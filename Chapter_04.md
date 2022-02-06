@@ -161,7 +161,7 @@ $$
 \nu = \frac{\eta}{\rho}
 $$
 
-[GB/T 3141-1994](https://oss.muzing.top/documents/GBT3141-1994O.pdf)
+[GB/T 3141-1994](https://muzing-bucket0.oss-cn-huhehaote.aliyuncs.com/documents/GBT-3141-1994.pdf)
 
 3）条件黏度
 
