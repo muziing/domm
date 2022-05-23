@@ -1,0 +1,6 @@
+# 将 .md 视为文本，强制要求行尾序列为 lf
+*.md  text eol=lf
+# 启用 .md 的语言统计
+*.md linguist-detectable=true
+# 禁用 .md 被视作文档
+*.md linguist-documentation=false
