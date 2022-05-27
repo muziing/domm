@@ -94,14 +94,6 @@
 - [第八章 带传动](https://domm.muzing.top/chapter_08)
 - [第十章 齿轮传动](https://domm.muzing.top/chapter_10)
 
-## 纠错
-
-诚邀热爱机械的小伙伴以**纠错**、**提供建议**、**提供图片等素材**、**加入编写**等各种方式与我合作，共同完善本书！
-
-[编写格式规范](https://domm.muzing.top/specification_21)
-
-联系编者：[muzi2001@foxmail.com](mailto:muzi2001@foxmail.com)
-
 ## 打赏与捐赠
 
 本书完全免费！
@@ -112,9 +104,25 @@
 
 所以，如果本书的内容对你有所帮助，也希望能为我打赏一瓶冰可乐，肯定我的工作、支持本书长期维护更新。
 
-![](https://oss.muzing.top/image/muzing微信收款码.png)
+![微信收款码](https://oss.muzing.top/image/muzing微信收款码.png)
 
 > 免责声明：读者完全出于自愿而打赏（捐赠），不会因此获得有任何形式的额外服务或产品。
+
+## 纠错
+
+诚邀热爱机械的小伙伴以**纠错**、**提供建议**、**提供图片等素材**、**加入编写**等各种方式与我合作，共同完善本书！
+
+[编写格式规范](https://domm.muzing.top/specification_21)
+
+联系编者：[muzi2001@foxmail.com](mailto:muzi2001@foxmail.com)
+
+## 开源与许可协议
+
+本书已完全开源，可至 [GitHub](https://github.com/muziing/domm) 下载所有 Markdown 格式的源码。
+
+[![知识共享许可协议](https://oss.muzing.top/image/BY-NC-40-88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
+
+本作品采用[知识共享署名-非商业性使用 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc/4.0/)进行许可。
 
 ## 致谢
 
