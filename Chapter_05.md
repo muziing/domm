@@ -185,7 +185,7 @@ $$
 设计式：
 
 $$
-d_1 \geq \sqrt{\frac{4F}{\pi}[\sigma]}
+d_1 \geq \sqrt{\frac{4F}{\pi [\sigma]}}
 $$
 
 | 字母符号     | 含义                           | 单位 |
