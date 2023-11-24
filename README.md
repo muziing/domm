@@ -104,7 +104,7 @@
 
 所以，如果本书的内容对你有所帮助，也希望能为我打赏一瓶冰可乐，肯定我的工作、支持本书长期维护更新。
 
-![微信收款码](https://oss.muzing.top/image/muzing微信收款码.png)
+![微信赞赏码](https://oss.muzing.top/image/muzing-WeChat-Collection.png)
 
 > 免责声明：读者完全出于自愿而打赏（捐赠），不会因此获得有任何形式的额外服务或产品。
 
